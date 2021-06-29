@@ -1,3 +1,2 @@
 @echo off
-"./python.exe" "./Werewolf_Randomizer.py"
-pause
+"./py/python.exe" "./py/Werewolf_Randomizer.py"
